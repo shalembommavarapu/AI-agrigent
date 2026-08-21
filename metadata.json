@@ -1,0 +1,6 @@
+{
+  "name": "AI Smart Agriculture Decision Agent",
+  "description": "Multimodal and Agentic AI decision-support platform combining crop vision, soil, weather, irrigation, pest/disease risk, and market intelligence for precision farming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
